@@ -1,5 +1,6 @@
 # Template
 
+```rust
 //! Solution for LeetCode problem #1: Two Sum
 //! https://leetcode.com/problems/two-sum/
 
@@ -22,3 +23,4 @@ use super::\*;
     }
 
 }
+```
