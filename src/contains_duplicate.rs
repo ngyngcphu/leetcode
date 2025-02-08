@@ -1,4 +1,4 @@
-//! Solution for LeetCode problem #1: Contains Duplicate
+//! Solution for LeetCode problem #217: Contains Duplicate
 //! https://leetcode.com/problems/contains-duplicate/
 
 pub struct Solution;
