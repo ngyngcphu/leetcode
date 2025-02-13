@@ -1,4 +1,5 @@
 pub mod best_time_to_buy_and_sell_stock;
+pub mod container_with_most_water;
 pub mod contains_duplicate;
 pub mod find_minimum_in_rotated_sorted_array;
 pub mod maximum_product_subarray;
@@ -9,6 +10,7 @@ pub mod three_sum;
 pub mod two_sum;
 
 pub use best_time_to_buy_and_sell_stock::Solution as BestTimeToBuyAndSellStock;
+pub use container_with_most_water::Solution as ContainerWithMostWater;
 pub use contains_duplicate::Solution as ContainsDuplicate;
 pub use find_minimum_in_rotated_sorted_array::Solution as FindMinimumInRotatedSortedArray;
 pub use maximum_product_subarray::Solution as MaximumProductSubarray;
