@@ -16,6 +16,7 @@ pub mod reverse_bits;
 pub mod search_in_rotated_sorted_array;
 pub mod three_sum;
 pub mod two_sum;
+pub mod word_break;
 
 pub use best_time_to_buy_and_sell_stock::Solution as BestTimeToBuyAndSellStock;
 pub use climbing_stairs::Solution as ClimbingStairs;
@@ -35,3 +36,4 @@ pub use reverse_bits::Solution as ReverseBits;
 pub use search_in_rotated_sorted_array::Solution as SearchInRotatedSortedArray;
 pub use three_sum::Solution as ThreeSum;
 pub use two_sum::Solution as TwoSum;
+pub use word_break::Solution as WordBreak;
